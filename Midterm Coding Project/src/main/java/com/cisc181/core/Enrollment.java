@@ -40,7 +40,7 @@ public class Enrollment {
 		super();
 		SectionID = sectionID;
 		StudentID = studentID;
-		EnrollmentID = UUID.randomUUID();
+		this.EnrollmentID = EnrollmentID;
 	}
 	
 }
