@@ -16,7 +16,6 @@ import org.junit.Test;
  *
  */
 public class Employee_Test {
-
 	/**
 	 * @throws java.lang.Exception
 	 */
@@ -49,5 +48,4 @@ public class Employee_Test {
 	public void test() {
 		assertEquals(1,1);
 	}
-
 }

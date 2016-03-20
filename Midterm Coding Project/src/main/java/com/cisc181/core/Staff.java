@@ -4,6 +4,7 @@ import java.util.Date;
 
 import com.cisc181.eNums.eTitle;
 
+@SuppressWarnings("serial")
 public class Staff extends Employee {
 
 	 private eTitle Title;
@@ -30,5 +31,4 @@ public class Staff extends Employee {
 		
 		this.Title = Title;
 	}
-
 }
